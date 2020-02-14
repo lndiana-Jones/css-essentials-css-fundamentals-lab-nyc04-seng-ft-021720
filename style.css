@@ -18,5 +18,6 @@ a {
   background: red;
 }
 figcaption {
-  text-align: center
+  text-align: center;
+  font-size: 10px;
 }
