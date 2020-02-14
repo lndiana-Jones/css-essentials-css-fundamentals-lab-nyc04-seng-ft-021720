@@ -18,6 +18,7 @@ a {
   background: red;
 }
 figcaption {
+  display: block;
   text-align: center;
   font-size: 10px;
 }
