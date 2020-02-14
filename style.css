@@ -13,7 +13,5 @@ img {
   width: 50%;
 }
 a {
-  display: block;
-  text-align: center
-}
+  margin: auto;
 }
