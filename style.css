@@ -18,10 +18,11 @@ a {
   background: red;
 }
 figcaption {
-  color: red;
+  text-align: center;
   font-size: 10px;
 }
 #featured-property p{
+  color: red;
   text-align: center;
   width: 800px;
 }
