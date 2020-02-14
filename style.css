@@ -17,3 +17,6 @@ a {
   margin-right: 10px;
   background: red;
 }
+figcaption {
+  text-align: center
+}
